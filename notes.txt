@@ -1,0 +1,6 @@
+oop => object oriented programing(php,java,python,c++,c#)
+laravel(mvc-oop)
+color (object) = color,wheel,engine(blue print=> class)
+class className{
+    propertise(variable,method)
+}
